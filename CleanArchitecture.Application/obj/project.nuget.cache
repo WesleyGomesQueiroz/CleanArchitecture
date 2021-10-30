@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8eqLkUSTZiSRX7HioyCnGgur5sdkRG8CNMWt8b7oHpTqdyZvAlKpND0WORwJZt7SmF4Jes2+RlMUanLLn8oRLg==",
+  "dgSpecHash": "swYdJgVRK+H1VJsWbHutuhYZ+3qxja0tFBMENhmZPjHnVCSwWwBSW3MrPbjmJrxNeUF/qUOyvYTRdtTsTjfRNg==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Clean Architecture Essencial\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [],

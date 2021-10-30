@@ -257,6 +257,57 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "CleanArchitecture.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Application.dll": {}
+        }
+      },
+      "CleanArchitecture.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Domain.dll": {}
+        }
+      },
+      "CleanArchitecture.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Infra.Data.dll": {}
+        }
+      },
+      "CleanArchitecture.Infra.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CleanArchitecture.Application": "1.0.0",
+          "CleanArchitecture.Domain": "1.0.0",
+          "CleanArchitecture.Infra.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Infra.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Infra.IoC.dll": {}
+        }
       }
     }
   },
@@ -728,10 +779,31 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+      "msbuildProject": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj"
+    },
+    "CleanArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+      "msbuildProject": "../CleanArchitecture.Domain/CleanArchitecture.Domain.csproj"
+    },
+    "CleanArchitecture.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Infra.Data/CleanArchitecture.Infra.Data.csproj",
+      "msbuildProject": "../CleanArchitecture.Infra.Data/CleanArchitecture.Infra.Data.csproj"
+    },
+    "CleanArchitecture.Infra.IoC/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Infra.IoC/CleanArchitecture.Infra.IoC.csproj",
+      "msbuildProject": "../CleanArchitecture.Infra.IoC/CleanArchitecture.Infra.IoC.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "CleanArchitecture.Infra.IoC >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 5.0.11"
     ]
   },
@@ -768,7 +840,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Udemy\\Clean Architecture Essencial\\CleanArchitecture\\CleanArchitecture.Infra.IoC\\CleanArchitecture.Infra.IoC.csproj": {
+              "projectPath": "C:\\Udemy\\Clean Architecture Essencial\\CleanArchitecture\\CleanArchitecture.Infra.IoC\\CleanArchitecture.Infra.IoC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -355,3 +355,11 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\ref\CleanArchitecture.WebUI.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.pdb
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.genruntimeconfig.cache
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\CleanArchitecture.Domain.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\CleanArchitecture.Infra.Data.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\CleanArchitecture.Application.pdb
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\CleanArchitecture.Domain.pdb
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\CleanArchitecture.Infra.Data.pdb

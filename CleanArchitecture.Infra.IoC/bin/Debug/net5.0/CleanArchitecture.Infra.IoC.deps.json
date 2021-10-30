@@ -7,14 +7,55 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "CleanArchitecture.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Application": "1.0.0",
+          "CleanArchitecture.Domain": "1.0.0",
+          "CleanArchitecture.Infra.Data": "1.0.0"
+        },
         "runtime": {
           "CleanArchitecture.Infra.IoC.dll": {}
+        }
+      },
+      "CleanArchitecture.Application/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Application.dll": {}
+        }
+      },
+      "CleanArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "CleanArchitecture.Domain.dll": {}
+        }
+      },
+      "CleanArchitecture.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Infra.Data.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CleanArchitecture.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Infra.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

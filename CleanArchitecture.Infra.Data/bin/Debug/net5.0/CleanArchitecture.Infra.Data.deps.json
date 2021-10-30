@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "CleanArchitecture.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
         "runtime": {
           "CleanArchitecture.Infra.Data.dll": {}
+        }
+      },
+      "CleanArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "CleanArchitecture.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CleanArchitecture.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

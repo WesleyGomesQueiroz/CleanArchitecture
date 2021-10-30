@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KMoN8vT3l5Z8mi0YtOvYchLdbA3j9KLcanYYbJPXsHgfKsKZN1v2MAK5YvMAzMBCIoRkZzg+h2mWSKBD6GLohg==",
+  "dgSpecHash": "lH1LZZoM6Vok+HeLF6budinabWbyUea82KeQ8TU4+qxypIRx92/DAodXn8UoSNEdDmG2IjYLUIeohZnqHWXHLg==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Clean Architecture Essencial\\CleanArchitecture\\CleanArchitecture.WebUI\\CleanArchitecture.WebUI.csproj",
   "expectedPackageFiles": [

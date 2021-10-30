@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "CleanArchitecture.WebUI/1.0.0": {
         "dependencies": {
+          "CleanArchitecture.Infra.IoC": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.11",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -531,6 +532,49 @@
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {},
+      "CleanArchitecture.Application/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Application.dll": {}
+        },
+        "compile": {
+          "CleanArchitecture.Application.dll": {}
+        }
+      },
+      "CleanArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "CleanArchitecture.Domain.dll": {}
+        },
+        "compile": {
+          "CleanArchitecture.Domain.dll": {}
+        }
+      },
+      "CleanArchitecture.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Infra.Data.dll": {}
+        },
+        "compile": {
+          "CleanArchitecture.Infra.Data.dll": {}
+        }
+      },
+      "CleanArchitecture.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Application": "1.0.0",
+          "CleanArchitecture.Domain": "1.0.0",
+          "CleanArchitecture.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Infra.IoC.dll": {}
+        },
+        "compile": {
+          "CleanArchitecture.Infra.IoC.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -2341,6 +2385,26 @@
       "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
       "path": "system.threading.tasks.extensions/4.5.4",
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    },
+    "CleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",
