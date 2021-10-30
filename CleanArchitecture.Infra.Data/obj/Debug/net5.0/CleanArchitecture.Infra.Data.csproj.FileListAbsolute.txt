@@ -1,0 +1,12 @@
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\bin\Debug\net5.0\CleanArchitecture.Infra.Data.deps.json
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\bin\Debug\net5.0\CleanArchitecture.Infra.Data.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\bin\Debug\net5.0\ref\CleanArchitecture.Infra.Data.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\bin\Debug\net5.0\CleanArchitecture.Infra.Data.pdb
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.csproj.AssemblyReference.cache
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.AssemblyInfoInputs.cache
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.AssemblyInfo.cs
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\ref\CleanArchitecture.Infra.Data.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.pdb

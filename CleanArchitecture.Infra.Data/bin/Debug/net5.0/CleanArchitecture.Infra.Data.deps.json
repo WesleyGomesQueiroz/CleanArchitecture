@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CleanArchitecture.Infra.Data/1.0.0": {
+        "runtime": {
+          "CleanArchitecture.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchitecture.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

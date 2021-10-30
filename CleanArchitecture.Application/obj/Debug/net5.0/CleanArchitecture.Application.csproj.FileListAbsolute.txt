@@ -1,0 +1,12 @@
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Application.deps.json
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\ref\CleanArchitecture.Application.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Application.pdb
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\ref\CleanArchitecture.Application.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.pdb
