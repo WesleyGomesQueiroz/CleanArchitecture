@@ -16,4 +16,3 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.pdb
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Domain.pdb
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.Data.pdb
-C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CopyComplete

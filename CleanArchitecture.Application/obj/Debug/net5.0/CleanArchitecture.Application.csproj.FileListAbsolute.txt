@@ -12,4 +12,3 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Applic
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.pdb
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Domain.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Domain.pdb
-C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.csproj.CopyComplete

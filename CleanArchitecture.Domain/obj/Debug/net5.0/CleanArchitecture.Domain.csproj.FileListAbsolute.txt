@@ -2,7 +2,6 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net5.0\CleanArchitecture.Domain.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net5.0\ref\CleanArchitecture.Domain.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net5.0\CleanArchitecture.Domain.pdb
-C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.AssemblyInfo.cs
