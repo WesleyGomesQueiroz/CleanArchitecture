@@ -15,3 +15,4 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\bin\Debug\net5.0\CleanArchitecture.Infra.Data.runtimeconfig.json
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\bin\Debug\net5.0\CleanArchitecture.Infra.Data.runtimeconfig.dev.json
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.genruntimeconfig.cache
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\net5.0\CleanArchitecture.Infra.Data.csproj.CopyComplete
