@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8uAXI8m8TDEMr+N3zH/LjE+SdcQk9Bzu7mONvBZoWJk0Lu4tS/GEJZBsr+DGMHagVuttQpvNmUznx/LiglVFPg==",
+  "dgSpecHash": "b8G6/G7Eby+ZKb0aE+0yYpUCKsMBF7gWmIGin4CylgDQ84zqnPxwjx8Uxh7X8sHBstC68KWDDZgpw7avT0y6AQ==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Clean Architecture Essencial\\CleanArchitecture\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
   "expectedPackageFiles": [
