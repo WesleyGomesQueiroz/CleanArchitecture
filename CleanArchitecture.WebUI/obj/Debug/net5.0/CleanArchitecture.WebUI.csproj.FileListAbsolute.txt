@@ -394,3 +394,4 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\AutoMapper.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
