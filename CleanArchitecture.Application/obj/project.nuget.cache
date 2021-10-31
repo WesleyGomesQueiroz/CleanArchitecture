@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lFUCXVUl2NmiJtrp15dcIYBaXwqMqhtGy0WZYgM8C1nPD2zjqqkq0rY0aYkD6Ypg34TNypud1Tz5t2qA62X5KQ==",
+  "dgSpecHash": "0yhJCgP93xlCHFL5I00taT3wjVtlyDClkuJXoFFdSoItyrXnPmQJN/xx3J8+A7764z9JXvSFBcmxfZSY9XBISg==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Clean Architecture Essencial\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesle\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],

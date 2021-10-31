@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f3mSJy7rhVfNW7nrUgRUntQ9vvur7YY1Memkbr+Ap2sQRqhWA4esgSBdEj5329aRarJEx0fECYxRtojCavhQXw==",
+  "dgSpecHash": "Q7I5P8PUoiWgN4WkmdsCwYkdyS6uewvVXQ9SJUZ03MX/nE+/mW9kkNWoWNLtSyX5fFgPBx03TkZGiCIPhBD7vw==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Clean Architecture Essencial\\CleanArchitecture\\CleanArchitecture.Infra.IoC\\CleanArchitecture.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesle\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
