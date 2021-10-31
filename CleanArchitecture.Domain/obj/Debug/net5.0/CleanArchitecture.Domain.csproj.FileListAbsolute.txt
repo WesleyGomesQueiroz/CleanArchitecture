@@ -9,4 +9,3 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net5.0\ref\CleanArchitecture.Domain.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.pdb
-C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
