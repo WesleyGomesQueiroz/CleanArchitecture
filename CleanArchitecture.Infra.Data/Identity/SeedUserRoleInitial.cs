@@ -4,7 +4,7 @@ using System;
 
 namespace CleanArchitecture.Infra.Data.Identity
 {
-    public class SeedUserRoleInitial : ISeeUserRoleInitial
+    public class SeedUserRoleInitial : ISeedUserRoleInitial
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;

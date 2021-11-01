@@ -1,6 +1,6 @@
 ﻿namespace CleanArchitecture.Infra.Data.Account
 {
-    public interface ISeeUserRoleInitial
+    public interface ISeedUserRoleInitial
     {
         void SeedUsers();
 
