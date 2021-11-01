@@ -91,5 +91,19 @@ namespace CleanArchitecture.WebUI.Controllers
             return RedirectToAction("Index");
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var category = await _categoryService.GetBiIdAsync(id);
+
+            if (category == null)
+                return NotFound();
+
+            return View(category);
+        }
+
     }
 }

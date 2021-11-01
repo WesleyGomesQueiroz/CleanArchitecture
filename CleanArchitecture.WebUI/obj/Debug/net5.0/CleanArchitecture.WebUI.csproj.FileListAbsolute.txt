@@ -402,3 +402,4 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
