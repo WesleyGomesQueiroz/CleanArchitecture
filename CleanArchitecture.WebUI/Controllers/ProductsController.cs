@@ -1,5 +1,7 @@
-﻿using CleanArchitecture.Application.Interfaces;
+﻿using CleanArchitecture.Application.DTOs;
+using CleanArchitecture.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +12,12 @@ namespace CleanArchitecture.WebUI.Controllers
     public class ProductsController : Controller
     {
         private readonly IProductService _productService;
+        private readonly ICategoryService _categoryService;
 
-        public ProductsController(IProductService productService)
+        public ProductsController(IProductService productService, ICategoryService categoryService)
         {
             _productService = productService;
+            _categoryService = categoryService;
         }
 
         [HttpGet]
@@ -22,5 +26,28 @@ namespace CleanArchitecture.WebUI.Controllers
             var products = await _productService.GetProductsAsync();
             return View(products);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Create()
+        {
+            ViewBag.CategoryId = new SelectList(await _categoryService.GetCategoriesAsync(), "Id", "Name");
+
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(ProductDTO product)
+        {
+            if (ModelState.IsValid)
+            {
+                await _productService.AddAsync(product);
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(product);
+        }
+
+
+
     }
 }
