@@ -23,8 +23,6 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -109,8 +107,6 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -407,3 +403,8 @@ C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
 C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
