@@ -1,3 +1,4 @@
+using CleanArchitecture.Infra.Data.Account;
 using CleanArchitecture.Infra.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -27,7 +28,10 @@ namespace CleanArchitecture.WebUI
             services.AddControllersWithViews();
         }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(
+            IApplicationBuilder app, 
+            IWebHostEnvironment env,
+            ISeedUserRoleInitial seedUserRoleInitial)
         {
             if (env.IsDevelopment())
             {
@@ -44,6 +48,10 @@ namespace CleanArchitecture.WebUI
 
             app.UseRouting();
 
+            seedUserRoleInitial.SeedRoles();
+            seedUserRoleInitial.SeedUsers();
+
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

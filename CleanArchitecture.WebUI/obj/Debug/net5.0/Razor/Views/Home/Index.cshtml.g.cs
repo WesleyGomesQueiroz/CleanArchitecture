@@ -26,8 +26,15 @@ using CleanArchitecture.WebUI.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Udemy\Clean Architecture Essencial\CleanArchitecture\CleanArchitecture.WebUI\Views\_ViewImports.cshtml"
+using CleanArchitecture.WebUI.ViewModel;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e331e7bf4c8426f67b435d2884a1774f6fdffc4d", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f32b03902dd5d8b6562b4596dd42910826cbb39b", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"42bf4b1bfd7eaa400fae24798822c1bd2aa9d9a5", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
