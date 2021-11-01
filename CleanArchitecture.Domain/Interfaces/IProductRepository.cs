@@ -10,7 +10,7 @@ namespace CleanArchitecture.Domain.Interfaces
 
         Task<Product> GetByIdAsync(int? id);
 
-        Task<Product> GetProducCategoryAsync(int? id);
+        //Task<Product> GetProducCategoryAsync(int? id);
 
         Task<Product> CreateAsync(Product product);
         

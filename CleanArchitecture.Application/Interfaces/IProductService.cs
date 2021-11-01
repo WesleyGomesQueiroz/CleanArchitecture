@@ -10,7 +10,7 @@ namespace CleanArchitecture.Application.Interfaces
 
         Task<ProductDTO> GetByIdAsync(int? id);
 
-        Task<ProductDTO> GetProductCategoryAsync(int? id);
+        //Task<ProductDTO> GetProductCategoryAsync(int? id);
 
         Task AddAsync(ProductDTO productDto);
 
