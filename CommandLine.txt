@@ -1,0 +1,2 @@
+﻿add-migration Inicial
+update-database
