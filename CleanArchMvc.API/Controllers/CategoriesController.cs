@@ -1,5 +1,6 @@
 ﻿using CleanArchMvc.Application.DTOs;
 using CleanArchMvc.Application.Interfaces;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -12,6 +13,7 @@ namespace CleanArchMvc.API.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]
+    //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class CategoriesController : ControllerBase
     {
         private readonly ICategoryService _categoryService;
@@ -74,7 +76,7 @@ namespace CleanArchMvc.API.Controllers
         public async Task<ActionResult<CategoryDTO>> Delete(int id)
         {
             var category = await _categoryService.GetById(id);
-            
+
             if (category == null)
             {
                 return NotFound("Category not found");
