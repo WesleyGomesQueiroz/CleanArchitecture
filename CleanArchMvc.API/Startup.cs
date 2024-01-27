@@ -28,6 +28,9 @@ namespace CleanArchMvc.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddInfrastructureAPI(Configuration);
+
+            services.AddInfrastructureJWT(Configuration);
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
