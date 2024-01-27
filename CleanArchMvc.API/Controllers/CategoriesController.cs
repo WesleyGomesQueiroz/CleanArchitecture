@@ -30,8 +30,8 @@ namespace CleanArchMvc.API.Controllers
             return Ok(categories);
         }
 
-        [HttpGet("id")]
-        public async Task<ActionResult<CategoryDTO>> Get( int id)
+        [HttpGet("id", Name = "GetCategory")]
+        public async Task<ActionResult<CategoryDTO>> Get(int id)
         {
             var category = await _categoryService.GetById(id);
             if (category == null)
@@ -39,6 +39,18 @@ namespace CleanArchMvc.API.Controllers
                 return NotFound("Category not found");
             }
             return Ok(category);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> Post([FromBody] CategoryDTO categoryDTO)
+        {
+            if (categoryDTO == null)
+                return BadRequest("Invalid Data");
+
+
+            await _categoryService.Add(categoryDTO);
+
+            return new CreatedAtRouteResult("GetCategory", new { id = categoryDTO.Id }, categoryDTO);
         }
 
     }
